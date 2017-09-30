@@ -17,6 +17,8 @@ Buzz-of-non-blocking-event-loop
 
 * JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency” ????
 
+* Refer this [Blog](https://medium.com/cybros-lnmiit/javascript-programmers-like-to-use-words-like-event-loop-non-blocking-callback-3baf7bb36461)
+
 ##
 
 
